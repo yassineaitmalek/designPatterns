@@ -9,7 +9,7 @@
 
 <h3> Creational Pattern </h3>
 
-<h2>
+<h4>
     <ul>
       <li>Abstract Factory</li>
       <li>Builder</li>
@@ -18,11 +18,11 @@
       <li>ProtoType</li>
       <li>Singelton</li>
     </ul>
-</h2>
+</h4>
 
 <h3> Structural Pattern </h3>
 
-<h2>
+<h4>
     <ul>
       <li>Adapter</li>
       <li>Bridge</li>
@@ -32,7 +32,7 @@
       <li>Flyweight</li>
       <li>Proxy</li>
     </ul>
-</h2>
+</h4>
 
 
 
