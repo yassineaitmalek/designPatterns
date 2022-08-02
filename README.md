@@ -34,6 +34,16 @@
     </ul>
 </h4>
 
+<h3> Behavioral Pattern </h3>
+
+<h4>
+    <ul>
+      <li>Chain of Responsibility</li>
+      <li>Command</li>
+      <li>Iterator</li>
+    </ul>
+</h4>
+
 
 
 
